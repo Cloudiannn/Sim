@@ -1,0 +1,3 @@
+﻿  Sim.cpp
+C:\Users\11767\Desktop\Sim\Sim.cpp(173,1): warning C4002: 类函数宏的调用“CreateWindowW”参数过多
+  Sim.vcxproj -> C:\Users\11767\Desktop\Sim\x64\Debug\Sim.exe
